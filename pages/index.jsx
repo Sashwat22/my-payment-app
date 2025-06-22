@@ -11,7 +11,7 @@ export default function Home() {
         <Link href="/zelle"><button>Zelle</button></Link>
         <Link href="/paypal"><button>PayPal</button></Link>
         <Link href="/crypto"><button>Crypto</button></Link>
-        <Link href="/configure"><button>Add another option</button></Link>
+        <Link href="/low-rate"><button>Add another option</button></Link>
       </div>
 
       {/* clickable hotspot */}
